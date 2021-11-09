@@ -14,3 +14,4 @@ build
 !.yarnrc.yml
 !jest.config.js
 
+coverage
