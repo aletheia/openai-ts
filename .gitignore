@@ -4,5 +4,13 @@ build
 *.swp
 
 *.js
-!.prettier.js
+!.prettierrc.js
+!.eslintrc.js
+!.eslintignore
+!.gitignore
+!.npmignore
+!.travis.yml
+!.yarnignore
+!.yarnrc.yml
+!jest.config.js
 
